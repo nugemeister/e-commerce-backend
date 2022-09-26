@@ -51,15 +51,11 @@ We suggest you run tests for API routes in Insomnia Core or another similar tool
 
 The following video shows the web application's appearance and functionality:
 
-![This is a recording of the live webpage.](./assets/employee-tracker-demo-video.mp4)
 <br></br>
 
-## Provided Mock-Up for Reference
+![This is the first recording of the live webpage.](./assets/HW13%20-%20Part%201.mp4)
+<br></br>
 
-The following image was provided as a directional mock-up for reference.
-
-![This is a screenshot of the first provided mock-up for reference.](./assets/13-orm-homework-demo-01.gif)
-![This is a screenshot of the second provided mock-up for reference.](./assets/13-orm-homework-demo-02.gif)
-![This is a screenshot of the third provided mock-up for reference.](./assets/13-orm-homework-demo-03.gif)
+![This is the second recording of the live webpage.](./assets/HW13%20-%20Part%202.mp4)
 <br></br>
 
