@@ -32,7 +32,14 @@ THEN I am able to successfully create, update, and delete data in my database
 1. Clone down the repository onto your local machine using the `git clone` command.
 2. Ensure you have MySQL2 package downloaded locally, as well as sequelize (use `npm install --save sequelize`).
 3. Run `npm install` to install necessary packages and dependencies.
-4. Enter the command `node index.js` to initialize the application, proceed by answering the following prompts.
+4. Run the schema ahead of running the application to ensure you have the starter database created. Log into mysql (use `mysql -u root -p`) then enter the following in your terminal `source db/schema.sql` to create the starter database.
+5. From the command line, enter the following to seed your database with the provided starter data `node seeds`.
+
+<br></br>
+
+## Usage
+1. Enter the command `node server.js` to initialize the application.
+2. Begin running the routes in Insomnia (or a similar tool) to interface with the database.
 
 <br></br>
 
