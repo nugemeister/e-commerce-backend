@@ -53,9 +53,21 @@ The following video shows the web application's appearance and functionality:
 
 <br></br>
 
-![This is the first recording of the live webpage.](./assets/HW13%20-%20Part%201.mp4)
+![This is the first recording of the live webpage.]
+https://user-images.githubusercontent.com/105621758/192189646-99cde980-a841-4194-9a13-eb839e8beffd.mp4
+
+
 <br></br>
 
-![This is the second recording of the live webpage.](./assets/HW13%20-%20Part%202.mp4)
+![This is the second recording of the live webpage.]
+https://user-images.githubusercontent.com/105621758/192189684-6a9a33f8-77be-4bf0-9172-673f9c15182b.mp4
+
+
+<br></br>
+
+![This is the third recording of the live webpage.]
+https://user-images.githubusercontent.com/105621758/192189799-2a6687d7-22d8-48eb-9a01-031748a5c64a.mp4
+
+
 <br></br>
 
